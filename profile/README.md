@@ -1,10 +1,7 @@
 <h1 align="left"><img align="left" src="https://github.com/pingpad-io/.github/assets/72769566/d310bd1d-d78a-464e-9122-d7bca05ab32f" width="45px">Pingpad</h1>
 
-
-
-
 ### what?
-A collective building [pingpad.io](https://pingpad.io) - a minimalistic decentralized social for you and your community
+[pingpad.io](https://pingpad.io) is a minimalistic decentralized social for you and your community
 
 ### why?
 because the web belongs to people
